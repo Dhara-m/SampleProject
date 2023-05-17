@@ -1,4 +1,4 @@
-**JustEatTakeAway Demo Project 
+**JUSTEATTAKEAWAY PROJECT DEMO**
 
 This Project is mainly to filter the countries as per the job locations and the categories in which a person is applying for.
 
