@@ -6,7 +6,7 @@ This Project is mainly to filter the countries as per the job locations and the 
 Through automation we are making sure the working is smooth and no there is no glitch identified.
 
 
-It has 3 task- 
+It has 3 tasks- 
 
 - a) To select test field from job search and verify all the locations are shown with profile having Test
 
