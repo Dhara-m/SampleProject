@@ -8,13 +8,13 @@ Through automation we are reducing considerable amount of testing efforts and ti
 
 It has 3 tasks- 
 
-- a) To select test field from job search and verify all the locations are shown with profile having Test
+a) To select test field from job search and verify all the locations are shown with profile having Test
 
 
-- b) To slect sales field from job search and verify the results count are same and then filter the sales job to country Germany.
+b) To slect sales field from job search and verify the results count are same and then filter the sales job to country Germany.
              
              
- - c) To perform CRUD operations 
+c) To perform CRUD operations 
              
              
 **TOOLS**
@@ -26,9 +26,9 @@ It has 3 tasks-
 
 **STEPS TO REPRODUCE**
 
-Step 1: Install Java (compatible version)
+Step 1: Install Java 1:8JRE 
 
-Step 2: Install Maven, chromedriver and Selenium webdriver (compatible version)
+Step 2: Install Maven 3.9.2, chromedriver and Selenium webdriver 4.9.0
 
 Step 3 : Install all supporting plugins - TestNG, REST Assured.
 
@@ -49,14 +49,15 @@ Step 10: Wrtite the required codes in each respective classes.
 Step 11: Place all the classes in Testng.xml file to run as suite.
 
 
-**Steps to Run automation Test cases.**
-
-1.In the Package Explorer, select the class which we want to run.
+**STEPS TO RUN AUTOMATION TEST CASES**
 
 
-2.Right click and click run as java application.
+1. In the Package Explorer, select the class which we want to run.
 
 
-3.Test suite when we want to run collective set of test cases as part of regression or smoke.
+2. Right click and click run as java application.
+
+
+3. Test suite when we want to run collective set of test cases as part of regression or smoke.
 
 
