@@ -8,7 +8,7 @@ Through automation we are making sure the working is smooth and no there is no g
 
 It has 3 task- 
 
-a) To select test field from job search and verify all the locations are shown with profile having Test
+- a) To select test field from job search and verify all the locations are shown with profile having Test
 
 
 - b) To slect sales field from job search and verify the results count are same and then filter the sales job to country Germany.
