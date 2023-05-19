@@ -11,7 +11,7 @@ It has 3 tasks-
 a) To select test field from job search and verify all the locations are shown with profile having Test
 
 
-b) To slect sales field from job search and verify the results count are same and then filter the sales job to country Germany.
+b) To select sales field from job search and verify the results count are same and then filter the sales job to country Germany.
              
              
 c) To perform CRUD operations 
