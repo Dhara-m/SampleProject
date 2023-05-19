@@ -64,4 +64,8 @@ Step 11: Place all the classes in Testng.xml file to run as suite.
 
 3. Test suite when we want to run collective set of test cases as part of regression or smoke.
 
+4. If we want to run single file we can comment the rest 2 files and run the single file as testNg.
+
+
+
 
