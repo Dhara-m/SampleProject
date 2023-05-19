@@ -20,11 +20,14 @@ c) To perform CRUD operations
 **TOOLS**
  
  Selenium Webdriver
+ 
  TestNG
- RestAssured           
+ 
+ RestAssured    
+ 
 
 
-**STEPS TO REPRODUCE**
+**PRE-REQUISITES FOR RUNNING THE TEST**
 
 Step 1: Install Java  
 
@@ -47,6 +50,7 @@ Step 9: Build the Project once to verify the setup is working fine.
 Step 10: Wrtite the required codes in each respective classes.
 
 Step 11: Place all the classes in Testng.xml file to run as suite.
+
 
 
 **STEPS TO RUN AUTOMATION TEST CASES**
