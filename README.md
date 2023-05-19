@@ -26,9 +26,9 @@ c) To perform CRUD operations
 
 **STEPS TO REPRODUCE**
 
-Step 1: Install Java 1:8JRE 
+Step 1: Install Java  
 
-Step 2: Install Maven 3.9.2, chromedriver and Selenium webdriver 4.9.0
+Step 2: Install Maven, chromedriver and Selenium webdriver
 
 Step 3 : Install all supporting plugins - TestNG, REST Assured.
 
