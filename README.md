@@ -55,7 +55,7 @@ Step 11: Place all the classes in Testng.xml file to run as suite.
 1. In the Package Explorer, select the class which we want to run.
 
 
-2. Right click and click run as java application.
+2. Right click and click run the application.
 
 
 3. Test suite when we want to run collective set of test cases as part of regression or smoke.
